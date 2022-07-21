@@ -6,4 +6,5 @@
 
 <h2>Contact me:</h2>
 - 📫 micahwsmithdev@gmail.com
+<br>
 - LinkedIn: https://www.linkedin.com/in/micah-smith-2bab4019b/
